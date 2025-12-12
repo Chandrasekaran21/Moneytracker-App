@@ -576,6 +576,8 @@ const App = (()=>{
 
             }
 
+            UICtrl.clearEditState();
+
 
             loadEventListener();
             
